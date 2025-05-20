@@ -4,6 +4,7 @@ I build resilient reusable AWS environments with Terraform, optimize observabili
 Motyer.ca for more information, my resume, and skills 
 
 --- Core Competencies ---
+
 Cloud & IaC
 Architecting multi-account AWS with Terraform modules that behave themselves—no surprises, please.
 
