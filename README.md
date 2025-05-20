@@ -26,6 +26,7 @@ Data Structures & Algorithms
 BSTs to B-trees—because sorting life’s complexities never goes out of style.
 
 --- Contact & Connect ---
+
 Email: rlmotyer@gmail.com
 
 LinkedIn: https://linkedin.com/in/leona-motyer
