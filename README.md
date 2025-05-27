@@ -28,7 +28,7 @@ BSTs to B-trees—because sorting life’s complexities never goes out of style.
 
 --- Contact & Connect ---
 
-Email: rlmotyer@gmail.com
+Email: leona@motyer.ca
 
 LinkedIn: https://linkedin.com/in/leona-motyer
 
