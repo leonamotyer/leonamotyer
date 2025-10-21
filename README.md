@@ -23,9 +23,6 @@ Node.js, Java, Python, all unit-tested until they confess their deepest secrets.
 Front-End Development
 React + Supabase (or the occasional Firebase throwback)—a UI as smooth as fresh powder.
 
-Data Structures & Algorithms
-BSTs to B-trees—because sorting life’s complexities never goes out of style.
-
 --- Contact & Connect ---
 
 Email: leona@motyer.ca
